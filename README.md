@@ -1,5 +1,5 @@
 # Machine-Learning
-All the important and general machine learning algorithm implimentation;
+All the important and general machine learning algorithm implimentation<br/>
 Recomendation systeam:
 Recomendation system has well known applications.I have used collaborative filtering learning algorithm and apply it to a dataset of movie ratings. 
 Anomaly detection:
