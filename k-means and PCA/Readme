@@ -1,1 +1,2 @@
 K-means clustering is done with application of PCA to the data set
+It is an interesting implementation where I have used clustering to reduce size of the images by combining the clusters of same color and represt it with less number of colors
